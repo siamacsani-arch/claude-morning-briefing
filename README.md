@@ -27,13 +27,13 @@ Then sends it all as a single, clean Slack DM grouped by **topic** (not by sourc
 📣 WHAT HAPPENED YESTERDAY
 ━━━━━━━━━━━━━━━━━━━━━━━━
 • 📊 Paid Squad Deck — Slides finalized and ready for sync with team.
-  Minor changes ongoing. Deck shared with Lee Anne ahead of Part 2 call.
+  Minor changes ongoing. Deck shared with team for Part 2 call.
 
-• 🗓️ Google Meetings Rescheduled — YouTube Accelerator Program moved
-  to Tue Apr 21, 2–3pm EDT. Havenly / Google Sync moved to Thu Apr 23.
+• 🗓️ Google Meetings Rescheduled — YouTube Program moved
+  to Tue Apr 21, 2–3pm EDT. Team / Google moved to Thu Apr 23.
 
-• ⚠️ Criteo Follow-up Needed — No reply from Mallory since Apr 8.
-  EUS call never scheduled. ID tag drop flagged Apr 15, no response.
+• ⚠️ Criteo Follow-up Needed — No reply from them since Apr 8.
+  Call never scheduled. Tag drop flagged Apr 15, no response.
   Reply needed by EOD Monday.
 
 📅 TODAY'S CALENDAR
